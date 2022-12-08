@@ -1,0 +1,1 @@
+{'BaiduNetdisk': 0, 'Chrome': 1, 'Cloudmusic': 2, 'Firefox': 3, 'HUYA': 4, 'IQIYI': 5, 'MicrosoftEdge': 6, 'QQ': 7, 'QQMusic': 8, 'Wechat': 9, 'Wemeetapp': 10, 'YY': 11}

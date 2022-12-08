@@ -1,0 +1,15 @@
+aim chat
+email
+facebook
+ftps
+gmail
+hangouts
+icq
+netflix
+scp
+sftp
+skype
+spotify
+vimeo
+voipbuster
+youtube
